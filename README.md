@@ -11,7 +11,7 @@ This is the snake arcade dvd bouncing logo source code and files where you can f
 - to have a cool snake arcade screen saver
 - easy to code
   # FAQ
-  - will i make anytyhing like this again? yes.
+  - will i make anything like this again? yes.
   - how long does it take to create this type of stuff? usually 30 min - 2 hours.
   - does snake arcade make money? no, everything is free and will always be.
     ## ANTI-PIRACY!!
